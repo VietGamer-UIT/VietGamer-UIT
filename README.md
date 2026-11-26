@@ -1,53 +1,35 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0052cc,100:00e5ff&height=280&section=header&text=VietGamer🦆&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=System%20Architect%20%20&descAlignY=55&descAlign=50" />
-</div>
+# Doan Hoang Viet
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+AI / Backend Engineering · Second-year Information Systems student at the University of Information Technology (UIT), VNU-HCM
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent;">
-<tr>
-<td width="70%">
-<blockquote>
-<i>"Không chỉ là viết code, tôi xây dựng các hệ thống tư duy."</i>
-</blockquote>
-<ul>
-<li>🎓 <b>Định vị:</b> Sinh viên nhiệt huyết ngành <b>Hệ thống Thông tin</b> tại trường Đại học Công nghệ Thông tin (UIT - ĐHQG TP.HCM).</li>
-<li>🧠 <b>Đam mê cốt lõi:</b> Trí tuệ Nhân tạo (AI) & Khoa học Dữ liệu (Data Science). Thích nhào nặn những con số khô khan thành giải pháp có sức ảnh hưởng.</li>
-<li>⚡ <b>Phong cách làm việc:</b> Thực chiến, tập trung vào kiến trúc hệ thống, chuẩn mực và khả năng vận hành thực tế (Production-ready).</li>
-</ul>
-</td>
-<td width="30%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Cyber Dev" width="140" />
-</td>
-</tr>
-</table>
+I build Python-based backend services and AI applications, with a focus on machine learning, information retrieval, retrieval-augmented generation, and agentic workflows. I am currently seeking internship or part-time opportunities in AI and backend engineering.
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+Ho Chi Minh City, Vietnam · Expected graduation: 2029
 
-<div align="center">
+[Portfolio](https://viet-gamer.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vietgamervg/) · [Email](mailto:skyvdygaming@gmail.com)
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VietGamer-UIT/VietGamer-UIT/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VietGamer-UIT/VietGamer-UIT/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VietGamer-UIT/VietGamer-UIT/output/github-contribution-grid-snake.svg" width="90%">
-</picture>
-</div>
+## Selected Projects
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+### [TrustAgent](https://github.com/VietGamer-UIT/TrustAgent)
 
-<div align="center">
+An independent project exploring Vietnamese legal information retrieval, RAG, and constraint-based verification.
 
-<a href="mailto:skyvdygaming@gmail.com">
-<img src="https://img.shields.io/badge/PING_ME-skyvdygaming@gmail.com-00E5FF?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" />
-</a>
-</div>
+The repository combines FastAPI/LangGraph with ChromaDB retrieval and Z3-based logic checks. Earlier competition components include BM25, dense retrieval, and reranking.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0052cc&height=120&section=footer" />
-</div>
+Top 30 of 112 teams at the Vietnam–Korea INNOSTAR 2026 Startup Competition; final-round participant in UIT Data Science Challenge 2026 in both LegalIR and LegalQA.
+
+### [Sentrix](https://github.com/VietGamer-UIT/Sentrix) · [Demo](https://sentrix-coral.vercel.app)
+
+Three-person team project for AISC 2026: a voice-first customer feedback and service-recovery platform for restaurants and cafés.
+
+Built with FastAPI, Whisper, Gemini Flash-Lite, aspect-based sentiment analysis, React, and Firebase Firestore. The platform includes four-layer anti-fraud validation, and the repository documents 28 passing automated test scenarios.
+
+## Technical Skills
+
+**Backend:** Python · FastAPI · REST APIs · SQL · PostgreSQL
+**AI & ML:** Machine Learning · RAG · LangGraph · Information Retrieval
+**Engineering:** Git · Docker · Software Testing
+
+## Research & Activities
+
+Co-author of “Survey-Aware Explainable Machine Learning for Cost-Related Unmet Medical Care Among U.S. Adults,” presented at HEALTHINFO IV 2026 on October 3, 2026. Methods include survey-aware evaluation, household-level splitting, classical ML models, and TreeSHAP.
